@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Myimage from './image/myimage.jpg';
 
 class About extends Component {
   render() {
@@ -20,28 +21,23 @@ class About extends Component {
       <section id="about">
       <div className="row">
          <div className="three columns">
-            <img className="profile-pic"  src={profilepic} alt="Tim Baker Profile Pic" />
+            <img className="profile-pic"  src={Myimage} alt="robby pic" />
          </div>
          <div className="nine columns main-col">
             <h2>About Me</h2>
 
-            <p>{bio}</p>
+            <p>This passionate Web development wizard loves coding so much - have delivered several valued products and maintained so far. Focuse on remote works with abroad clients - always being royal to customer's advise and requirements, brave to studying on challenging things, so rapid in producing high quality websites.</p>
             <div className="row">
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
                   <p className="address">
-						   <span>{name}</span><br />
-						   <span>{street}<br />
-						         {city} {state}, {zip}
+						   <span>Lin Qing</span><br />
+						   <span>Haijingyuan 2<br />
+						         Dalian, Liaoning, 116001
                    </span><br />
-						   <span>{phone}</span><br />
-                     <span>{email}</span>
+						   <span>+86 134 7876 5713</span><br />
+                     <span>d1k.chesho.god@gmail.com</span>
 					   </p>
-               </div>
-               <div className="columns download">
-                  <p>
-                     <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
-                  </p>
                </div>
             </div>
          </div>
