@@ -106,24 +106,24 @@ class Resume extends Component {
 
             <div className="bars">
               <ul className="skills">
-                <li key={'heroku'}><span style={{ width: '100%' }} className='bar-expand'></span><em>JavaScript</em></li>
-                <li key={'heroku'}><span style={{ width: '90%' }} className='bar-expand'></span><em>React/Redux</em></li>
-                <li key={'heroku'}><span style={{ width: '75%' }} className='bar-expand'></span><em>React Native</em></li>
-                <li key={'heroku'}><span style={{ width: '80%' }} className='bar-expand'></span><em>NodeJS</em></li>
-                <li key={'heroku'}><span style={{ width: '80%' }} className='bar-expand'></span><em>ExpressJS</em></li>
-                <li key={'heroku'}><span style={{ width: '69%' }} className='bar-expand'></span><em>Meteor</em></li>
-                <li key={'heroku'}><span style={{ width: '80%' }} className='bar-expand'></span><em>Gatsby</em></li>
-                <li key={'heroku'}><span style={{ width: '80%' }} className='bar-expand'></span><em>NextJS</em></li>
-                <li key={'heroku'}><span style={{ width: '56%' }} className='bar-expand'></span><em>VueJS</em></li>
-                <li key={'heroku'}><span style={{ width: '90%' }} className='bar-expand'></span><em>Git</em></li>
-                <li key={'heroku'}><span style={{ width: '85%' }} className='bar-expand'></span><em>MongoDB</em></li>
-                <li key={'heroku'}><span style={{ width: '90%' }} className='bar-expand'></span><em>MySQL</em></li>
-                <li key={'heroku'}><span style={{ width: '90%' }} className='bar-expand'></span><em>PostgreSQL</em></li>
-                <li key={'heroku'}><span style={{ width: '87%' }} className='bar-expand'></span><em>GraphQL</em></li>
-                <li key={'heroku'}><span style={{ width: '70%' }} className='bar-expand'></span><em>Amazon Web Service</em></li>
-                <li key={'heroku'}><span style={{ width: '54%' }} className='bar-expand'></span><em>Firebase</em></li>
+                <li key={'heroku'}><span style={{ width: '65%' }} className='bar-expand'></span><em>JavaScript</em></li>
+                <li key={'heroku'}><span style={{ width: '60%' }} className='bar-expand'></span><em>React/Redux</em></li>
+                <li key={'heroku'}><span style={{ width: '50%' }} className='bar-expand'></span><em>React Native</em></li>
+                <li key={'heroku'}><span style={{ width: '60%' }} className='bar-expand'></span><em>NodeJS</em></li>
+                <li key={'heroku'}><span style={{ width: '60%' }} className='bar-expand'></span><em>ExpressJS</em></li>
+                <li key={'heroku'}><span style={{ width: '50%' }} className='bar-expand'></span><em>Meteor</em></li>
+                <li key={'heroku'}><span style={{ width: '55%' }} className='bar-expand'></span><em>Gatsby</em></li>
+                <li key={'heroku'}><span style={{ width: '55%' }} className='bar-expand'></span><em>NextJS</em></li>
+                <li key={'heroku'}><span style={{ width: '40%' }} className='bar-expand'></span><em>VueJS</em></li>
+                <li key={'heroku'}><span style={{ width: '60%' }} className='bar-expand'></span><em>Git</em></li>
+                <li key={'heroku'}><span style={{ width: '60%' }} className='bar-expand'></span><em>MongoDB</em></li>
+                <li key={'heroku'}><span style={{ width: '65%' }} className='bar-expand'></span><em>MySQL</em></li>
+                <li key={'heroku'}><span style={{ width: '55%' }} className='bar-expand'></span><em>PostgreSQL</em></li>
+                <li key={'heroku'}><span style={{ width: '60%' }} className='bar-expand'></span><em>GraphQL</em></li>
+                <li key={'heroku'}><span style={{ width: '40%' }} className='bar-expand'></span><em>Amazon Web Service</em></li>
+                <li key={'heroku'}><span style={{ width: '30%' }} className='bar-expand'></span><em>Firebase</em></li>
                 <li key={'heroku'}><span style={{ width: '50%' }} className='bar-expand'></span><em>WebGL</em></li>
-                <li key={'heroku'}><span style={{ width: '80%' }} className='bar-expand'></span><em>Data Visualization</em></li>
+                <li key={'heroku'}><span style={{ width: '55%' }} className='bar-expand'></span><em>Data Visualization</em></li>
               </ul>
             </div>
           </div>
